@@ -1,10 +1,14 @@
-### Hi there 👋
+### Hi!, i'm Samuel Ajayi 👋
 
+- 🔭 I have been coding JavaScript for the past 8 years
+- 🔭 I’m currently working webRTC
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/samuel-ajayi-full-stack/)
 <!--
 **Femchengdu/femchengdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+- 🔭 I’m currently working on ...
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
